@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.770437 0.783913 0.778299 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>Menlo-Regular - 11.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.770437 0.783913 0.778299 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>Menlo-Regular - 11.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.312027 0.64763 0.64188 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>Menlo-Regular - 11.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.770437 0.783913 0.778299 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>Menlo-Regular - 11.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.770437 0.783913 0.778299 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>Menlo-Regular - 11.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.082745 0.126137 0.153519 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.701143 0.722397 0.764669 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.243745 0.284649 0.325657 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.708155 0.741288 0.405974 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.082745 0.126137 0.153519 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.701143 0.722397 0.764669 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.323425 0.374859 0.418466 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.243745 0.284649 0.325657 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.833125 0.503323 0.228129 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.961064 0.489363 0.27364 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.323425 0.374859 0.418466 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.323425 0.374859 0.418466 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.71825 0.49488 0.723116 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.970447 0.742743 0.317597 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.970447 0.742743 0.317597 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.770437 0.783913 0.778299 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.719338 0.737817 0.727984 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.970447 0.742743 0.317597 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.331338 0.524022 0.75472 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.312027 0.64763 0.64188 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.312027 0.64763 0.64188 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.895935 0.277028 0.331144 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.833125 0.503323 0.228129 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.895935 0.277028 0.331144 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.895935 0.277028 0.331144 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.71825 0.49488 0.723116 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.961064 0.489363 0.27364 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.770437 0.783913 0.778299 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.895935 0.277028 0.331144 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.536033 0.742805 0.509051 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.265343 0.443584 0.699769 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.character</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.number</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.string</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.url</key>
+		<string>Menlo-Regular - 11.0</string>
+	</dict>
+</dict>
+</plist>
