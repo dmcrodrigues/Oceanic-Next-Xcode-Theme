@@ -12,7 +12,7 @@ A colorful and vibrant Xcode theme, ported from the excellent [Oceanic Next Them
 
 **Alcatraz**
 
-> Coming soon...
+1. Select "Color Themes" → Search "Oceanic Next" → Install → Enjoy
 
 **Manually**
 
