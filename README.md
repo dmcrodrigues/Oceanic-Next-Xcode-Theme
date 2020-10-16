@@ -16,7 +16,7 @@ A colorful and vibrant Xcode theme, ported from the excellent [Oceanic Next Them
 
 **Manually**
 
-1. Drag the theme to the Xcode's FontAndColorThemes folder (~/Library/Developer/Xcode/UserData/FontAndColorThemes)
+1. Drag the theme to the Xcode's FontAndColorThemes folder (~/Library/Developer/Xcode/UserData/FontAndColorThemes); you may need to create this folder
 2. Restart Xcode
 3. Enjoy
 
